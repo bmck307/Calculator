@@ -1,9 +1,0 @@
-﻿  Calculator.cpp
-C:\Users\brayd\Documents\CODE\Calculator\Calculator\Calculator.cpp(42,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
-C:\Users\brayd\Documents\CODE\Calculator\Calculator\Calculator.cpp(44,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
-C:\Users\brayd\Documents\CODE\Calculator\Calculator\Calculator.cpp(126,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\brayd\Documents\CODE\Calculator\Calculator\Calculator.cpp(126,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\brayd\Documents\CODE\Calculator\Calculator\Calculator.cpp(133,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\brayd\Documents\CODE\Calculator\Calculator\Calculator.cpp(133,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\brayd\Documents\CODE\Calculator\Calculator\Calculator.cpp(75): warning C4715: 'EuclideasAlgorithm': not all control paths return a value
-  Calculator.vcxproj -> C:\Users\brayd\Documents\CODE\Calculator\Debug\Calculator.exe
