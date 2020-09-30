@@ -82,6 +82,7 @@ int main()
 	float second = 0;
 	std::string prompt = "Please enter the two numbers you would like to ";
 	std::string form = " in the form \"firstNum secondNum \" \n";
+	std::string logForm = " in the form \"baseNum secondNum \" \n";
 	std::string warning = "This function only takes in whole numbers \n";
 
 	//Beginning of User Interface (Will likely improve)
@@ -120,7 +121,7 @@ int main()
 				std::cout << "The result is " << division(first, second) << std::endl;
 				break;
 			case 5:
-				std::cout << prompt << "find the logarithm for" << form;
+				std::cout << prompt << "find the logarithm for" << logForm;
 				std::cin >> first;
 				std::cin >> second;
 				std::cout << "The result is " << logarithm(first, second) << std::endl;
